@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\anim-v21\\mtrl_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\anim-v21\\mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\anim-v21\\mtrl_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\anim-v21\\mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

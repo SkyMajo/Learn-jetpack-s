@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_extended_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\mtrl_extended_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_extended_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\mtrl_extended_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_card_state_list_anim.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\mtrl_card_state_list_anim.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_btn_state_list_anim.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_extended_fab_state_list_animator.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\mtrl_extended_fab_state_list_animator.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\design_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_chip_state_list_anim.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_extended_fab_change_size_motion_spec.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\mtrl_extended_fab_change_size_motion_spec.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\design_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
+    }
+]

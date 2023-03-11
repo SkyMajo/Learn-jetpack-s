@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\168cf5bf4437ccdfe82591c0eb85b767\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\168cf5bf4437ccdfe82591c0eb85b767\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\168cf5bf4437ccdfe82591c0eb85b767\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\168cf5bf4437ccdfe82591c0eb85b767\\res\\layout-v21\\notification_action.xml"
+    }
+]

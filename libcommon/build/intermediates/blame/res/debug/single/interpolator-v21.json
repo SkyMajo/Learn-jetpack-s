@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\interpolator-v21\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\interpolator-v21\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\interpolator-v21\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\interpolator-v21\\mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\Learn-jetpack-s\\libcommon\\build\\intermediates\\res\\merged\\debug\\interpolator-v21\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3830d80604a15d9f60600f41b4992852\\res\\interpolator-v21\\mtrl_fast_out_linear_in.xml"
+    }
+]
